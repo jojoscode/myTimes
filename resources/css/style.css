@@ -104,8 +104,9 @@ header nav span a {
 }
 
 .cookie {
-  background-color: blue;
-  height: 300px;
+  display: flex;
+  flex-basis: 240px;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-news-bite.png");
   border: 1px solid black;
 }
 
