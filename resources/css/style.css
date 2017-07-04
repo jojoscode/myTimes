@@ -27,6 +27,8 @@ header {
 }
 
 .logo img {
+  width: 70px;
+  height: 60px;
   padding: 0 10px 0 30px;
 }
 
